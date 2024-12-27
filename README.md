@@ -1,3 +1,5 @@
+![Project Banner](KPI Dashboard.png)
+
 # McDonald's All-Day Breakfast Analysis
 
 This project evaluates the impact of McDonald's "All Day Breakfast" strategy, implemented to boost profits and customer retention. The analysis focuses on quantifying the monetary and operational effects of this strategy and determining whether it is worth continuing. This repository contains the exploratory data analysis (EDA), hypothesis testing, and visualizations used to address the business problem.
