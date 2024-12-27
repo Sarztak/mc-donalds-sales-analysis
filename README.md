@@ -1,4 +1,4 @@
-![Project Banner](KPI Dashboard.png)
+![Project Banner](KPI.png)
 
 # McDonald's All-Day Breakfast Analysis
 
